@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AttendScanMasda</string>
+    <string name="scan_barcode">Scan Barcode</string>
+    <string name="attendance_list">Daftar Kehadiran</string>
+</resources>
